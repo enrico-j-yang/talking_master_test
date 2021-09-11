@@ -1,0 +1,14 @@
+Appium-Python-Client>=0.26
+baidu-aip>=2.2.0.0
+behave>=1.2.6
+certifi>=2018.1.18
+chardet>=3.0.4
+idna>=2.6
+parse>=1.8.2
+parse-type>=0.4.2
+Pillow>=5.0.0
+pydub>=0.20.0
+requests>=2.18.4
+selenium>=3.9.0
+six>=1.11.0
+urllib3>=1.22
